@@ -1,0 +1,40 @@
+_repo: Materials-and-Methods-of-FictionWith-an-Introduction-by-Brander-Matthews_30776
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, J. Brander (James Brander)
+    - Matthews, James Brander
+    - Penn, Arthur
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Clayton Meeker
+    birthdate: 1881
+    deathdate: 1946
+    gutenberg_agent_id: '5143'
+    url: http://www.gutenberg.org/2009/agents/5143
+description: ''
+gutenberg_issued: '2009-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PN'
+title: 'Materials and Methods of Fiction
+
+  With an Introduction by Brander Matthews'
+url: http://www.gutenberg.org/ebooks/30776
